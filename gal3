@@ -1,0 +1,46 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]--><html>
+<head>
+	<title>Veru Narula</title>
+	<!-- META DATA -->
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="description" content="" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0" />
+</head>
+
+	<body class="loading">
+		<div class="project">
+			<div class="project__content">
+				<div class="row">
+					<div class="column--s-12 column--xl-8 column-offset--xl-2 padding--s-3 padding--m-6">
+						<p class="text-align--s-left">
+							An introductory paragraph about the gallery... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+						</p>
+					</div>
+				</div>
+
+				<div class="row background-color--white text-align--s-center">
+					<div class="column--s-12 column--m-8 column-offset--m-2 padding--s-3 padding--m-6">
+						<a data-next-project href="#" class="button--hexagon">
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="button__label text-color--white">Next</span>
+						</a>
+					</div>
+				</div>
+
+
+
+			</div>
+		</div>
+	</body>
+
+</html>
